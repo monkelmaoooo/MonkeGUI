@@ -46,7 +46,6 @@ For full API reference, see [DOCUMENTATION.md](DOCUMENTATION.md)
 - A 1×1 white `UTexture*` (used for all filled rect rendering)
 - A `UFont*`
 - C++
-- Windows (mouse input via `GetAsyncKeyState` / `GetCursorPos`)
 
 > **SDK note:** MonkeGUI references `FLinearColor`, `FVector2D`, `UCanvas`, `UTexture`, and `UFont` from your UE SDK headers. Make sure these are available in your include path before including `MonkeGUI.h`.
 
