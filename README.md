@@ -109,7 +109,7 @@ MonkeGUI was designed to provide:
 
 # Credits
 
-Inspired by Dear ImGui and custom UE canvas renderers.
+Inspired by ImGui.
 
 ---
 
