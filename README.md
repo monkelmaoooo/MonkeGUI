@@ -15,10 +15,6 @@ Lightweight animated immediate-mode GUI framework for Unreal Engine canvas rende
 - Minimal dependencies
 - UE4/UE5 compatible
 
-## Preview
-
-![preview](screenshots/menu.png)
-
 ---
 
 # Widgets
@@ -55,7 +51,11 @@ Lightweight animated immediate-mode GUI framework for Unreal Engine canvas rende
 
 # Video Showcase
 
-https://github.com/user-attachments/assets/video.mp4
+<p align="center">
+  <a href="https://youtu.be/XlFDaLO_2MQ">
+    <img src="https://img.youtube.com/vi/XlFDaLO_2MQ/maxresdefault.jpg" width="800">
+  </a>
+</p>
 
 # Example
 
