@@ -3,6 +3,7 @@
 Lightweight animated immediate-mode GUI framework for Unreal Engine canvas rendering. Inspired by [Dear ImGui](https://github.com/ocornut/imgui), built entirely on `UCanvas` with no external GUI dependencies.
 
 For full API reference, see [DOCUMENTATION.md](DOCUMENTATION.md)
+Discord: aactor
 
 ---
 
