@@ -2,6 +2,8 @@
 
 Lightweight animated immediate-mode GUI framework for Unreal Engine canvas rendering. Inspired by [Dear ImGui](https://github.com/ocornut/imgui), built entirely on `UCanvas` with no external GUI dependencies.
 
+For full API reference, see [DOCUMENTATION.md](DOCUMENTATION.md)
+
 ---
 
 ## Preview
@@ -13,8 +15,6 @@ Lightweight animated immediate-mode GUI framework for Unreal Engine canvas rende
 | Color Picker | Tabs / Combo |
 |-------------|--------------|
 | ![Color Picker](screenshots/image3.png) | ![Tabs](screenshots/image4.png) |
-
-For full API reference, see [DOCUMENTATION.md](DOCUMENTATION.md)
 
 ### Video Showcase
 
