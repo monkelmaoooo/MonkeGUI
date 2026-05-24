@@ -37,6 +37,26 @@ Lightweight animated immediate-mode GUI framework for Unreal Engine canvas rende
 
 ---
 
+# Preview
+
+## Menu
+![Menu](screenshots/image.png)
+
+## Widgets
+![Widgets](screenshots/image2.png)
+
+## Color Picker
+![Color Picker](screenshots/image3.png)
+
+## Tabs / Combo
+![Tabs](screenshots/image4.png)
+
+---
+
+# Video Showcase
+
+https://github.com/user-attachments/assets/video.mp4
+
 # Example
 
 ```cpp
